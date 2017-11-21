@@ -1,0 +1,8 @@
+.bg-panel{
+	background-image: url(../img/bg-panel.png);
+	background-position: center left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0px;
+	color: #fff;
+}
